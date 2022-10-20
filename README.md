@@ -54,4 +54,8 @@ https://tools.epieos.com/email.php
 
 https://www.manycontacts.com/en/mail-check
 
+Google Dorks
+
+https://www.exploit-db.com/google-hacking-database?category=8
+
 
