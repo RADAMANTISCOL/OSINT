@@ -1,14 +1,14 @@
 # OSINT 
-Information about links to search information in the surface web. 
-Hello, I AM A NEW USER OF THIS PLATFORM, I WILL SHARE INFORMATION ABOUT DIFFERENT WAYS TO SEARCH ANYTHING.
 
+**Information about Hyperlinks for Surface Web Information Retrieval**
 
+Greetings,
 
-What is OSINT?
+As a newcomer to this platform, I intend to share insights regarding diverse methods for conducting searches.
 
-Often OSINT, the acronym for Open Source INTelligence, is used as a synonym for ‘open sources’.
-Technically that is not correct as data itself is not the same as ‘intelligence’. Data, like the
-ownership record of an offshore entity, is just data and is meaningless without the context.
+Let's delve into OSINT:
+
+Frequently referred to as Open Source INTelligence, OSINT is occasionally used interchangeably with 'open sources.' However, from a technical standpoint, this equivalence is not accurate, as data in itself does not equate to 'intelligence.' For instance, the ownership record of an offshore entity represents raw data that lacks significance without proper context.
 
 BASIC TOOLS 
 
@@ -57,6 +57,9 @@ https://www.manycontacts.com/en/mail-check
 Google Dorks
 
 https://www.exploit-db.com/google-hacking-database?category=8
+
+# Spanish Version: 
+______________________________________________________________________________________________________________________________________
 
 # OSINT-Notas
 Un conjunto de notas para realizar OSINT
