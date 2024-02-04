@@ -270,5 +270,7 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * [https://whatismyipaddress.com/ip-lookup](https://whatismyipaddress.com/ip-lookup) :  Permite consultar la ubicación de una IP.
 
+* https://namechk.com/ : permite realizar busquedas por nombres de servicios asociados WEB.
+
 
 
