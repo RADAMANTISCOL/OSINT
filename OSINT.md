@@ -272,5 +272,18 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * https://namechk.com/ : permite realizar busquedas por nombres de servicios asociados WEB.
 
+* https://wsp.registraduria.gov.co/censo/consultar/ : para saber el lugar de votación de una persona
+
+* https://www.adres.gov.co/consulte-su-eps : verificador de EPS (Colombia)
+
+* https://fcm.org.co/simit/#/home-public : información de multas por Cedula o por placas de vehiculo
+
+* https://sara.colpsic.org.co/publico/verificacion-tarjetas : Verificador de tarejta profesional de psicologia
+
+* https://tramites.copnia.gov.co/Copnia_Microsite/CertificateOfGoodStanding/CertificateOfGoodStandingStart: Autenticación de Certificado de Vigencia y Antecedentes Disciplinarios Ingenieros
+
+* https://web.sispro.gov.co/THS/Cliente/ConsultasPublicas/ConsultaPublicaDeTHxIdentificacion.aspx: Registro Unico Nacional de Talento Humano en Salud.
+
+* https://www.dateas.com/es : Informacion de personas con numero de cedula o nombre
 
 
