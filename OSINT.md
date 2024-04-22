@@ -1,6 +1,6 @@
 # OSINT 
 
-Information about Hyperlinks for Surface Web Information Retrieval
+Information about Surface Web Information Retrieval
 
 Greetings,
 
