@@ -286,5 +286,7 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * https://www.dateas.com/es : Informacion de personas con numero de cedula o nombre
 
+* https://www.exploit-db.com/: hace tus dorks mas faciles
+
 
 
