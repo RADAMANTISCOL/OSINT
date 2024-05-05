@@ -288,5 +288,7 @@ Consulta de Procesos Judiciales - TYBA (ramajudicial.gov.co): Permite consultar 
 
 * https://www.exploit-db.com/: hace tus dorks mas faciles
 
+* https://www.exploit-db.com/google-hacking-database : Dorks de google 
+
 
 
